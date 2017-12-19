@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SoundMood</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment!</string>
+    <string name="title1">It\'s Friday</string>
+    <string name="subtitle1">Play something for...</string>
+    <string name="title2">What\'s your mood?</string>
+    <string name="subtitle2">Play something for...</string>
+    <string name="title3">Trending playlists</string>
+    <string name="subtitle3">This week</string>
+</resources>
